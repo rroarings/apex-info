@@ -1,0 +1,9 @@
+How To Install SE Addons in Blender
+  - Open Blender
+  - Edit > Preferences > Addons > Install zip
+  - Make sure both SE addons are checked and enabled
+  
+  How To Enable Copy Menu Attributes Menu in Blender
+  - Open Blender
+  - Edit > Preferences > Addons > Search "Copy Menu Attributes"
+  - Make sure both SE addons are checked and enabled
