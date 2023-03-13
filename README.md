@@ -7,4 +7,9 @@ Repository holding some files and informational tips when working with 3D Apex L
 
 ## Files
 * Apex Shader.blend
-  * Download and save anywhere. In Blender, go to File > Append > Apex Shader.blend > NodeTree > Cores Apex Shader 1.3
+  * Blender > File > Append > Apex Shader.blend > NodeTree > Cores Apex Shader 1.3
+
+* ApexShadePlus
+  * Blender > File > Append > ApexShaderPlus.blend > NodeTree > ApexShaderPlus
+* SEModel.zip
+* SEAnim.zip
