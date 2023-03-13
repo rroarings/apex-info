@@ -2,7 +2,7 @@
 Repository holding some files and informational tips when working with 3D Apex Legends models
 
 ## Videos
-[How to Import Apex Legends Models](https://youtu.be/A6a27wRyMS8)
+[How to Import Apex Legends Models](https://youtu.be/A6a27wRyMS8) (Outdated)
 
 
 ## Files
