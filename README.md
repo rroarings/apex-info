@@ -1,5 +1,5 @@
 # apex-info
-Repository holding some files and informational tips when working with 3D Apex Legends models.
+Repository holding some files and informational tips when working with Apex Legends game models, Blender 4.x.
 
 ## Videos
 [How to Import Apex Legends Models](https://youtu.be/A6a27wRyMS8) (Outdated)
@@ -7,25 +7,19 @@ Repository holding some files and informational tips when working with 3D Apex L
 ## Files
 * Apex Shader.blend
   * File > Append > Apex Shader.blend > NodeTree > Cores Apex Shader 1.3
-
-* SEModel.zip
-* SEAnim.zip
+* Blender CAST plugin (found: https://github.com/dtzxporter/cast/releases)
 
 ## Install & Enable Blender Addons
-  ### SEModel & SEAnim Addons
+  ### CAST plugin
   - Edit > Preferences > Addons > Install zip files
-  - Make sure both SE addons are checked and enabled
+  - Make sure the CAST [lugin is checked and enabled
   
-  ### Copy Menu Attributes Menu
-  - Edit > Preferences > Addons > Search "Copy Menu Attributes"
-  - Make sure the addon is checked and enabled
-
 ## Credits
-* SEModel
-  * [dtzxporter](https://github.com/dtzxporter/io_model_semodel)
-* SEAnim
-  * [SE2Dev](https://github.com/SE2Dev/io_anim_seanim)
 * Apex Shader
   * [Core - Google Drive](https://drive.google.com/drive/folders/1bbMjODcDlk3jB6AV_F6xEGKRDSJ-MsR1)
+* RSX
+  * @r-ex, (https://github.com/r-ex/rsx)
+* Blender CAST plugin
+  * @dtzxporter, (https://github.com/dtzxporter/cast)   
 * HDRIs
   * [PolyHaven](https://polyhaven.com/hdris)
