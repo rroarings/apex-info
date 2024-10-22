@@ -6,7 +6,7 @@ Repository holding some files and informational tips when working with Apex Lege
 
 ## :movie_camera: Videos
 - [How to Import Apex Legends Models](https://youtu.be/A6a27wRyMS8) (Outdated)
--
+- Apex Legends Thumbnails with Blender 4: The Ultimate Guide in 2024 (Working)
 
 ## :file_folder: Included Files
 * Apex Shader.blend
