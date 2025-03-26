@@ -10,22 +10,23 @@ Repository holding some files and informational tips when working with Apex Lege
 
 ## :file_folder: Included Files
 * Apex Shader.blend
-  * ``File > Append > Apex Shader.blend > NodeTree > Cores Apex Shader 1.3``
+* se_apex_shader.blend
+  * ``File > Append > se_apex_shader.blend > NodeTree > Apex_Shader (APPEND)``
 
 
 ## :ballot_box_with_check: Install & Enable Blender Addons
-  ### CAST plugin
+  ### BlenderKit plugin
   - ```Edit > Preferences > Addons > Install zip files```
-  - Make sure the CAST plugin is checked and enabled
+  - Installation instructions found on the BlenderKit download page
+  - Make sure the BlenderKit plugin is checked and enabled
 
   
 ## :link: Credits
 * Apex Shader
   * [Core - Google Drive](https://drive.google.com/drive/folders/1bbMjODcDlk3jB6AV_F6xEGKRDSJ-MsR1)
+* se_apex_shader
+  * full credits and attributions to (unknown to me) 
 * RSX
   * @r-ex, (https://github.com/r-ex/rsx)
-* Blender CAST plugin
-  * @dtzxporter, (https://github.com/dtzxporter/cast)   
-* HDRIs
-  * [PolyHaven](https://polyhaven.com/hdris)
+
 
